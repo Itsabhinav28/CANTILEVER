@@ -2,11 +2,11 @@ Here's a version of your text formatted with bold headings and bullet points, ma
 
 ---
 
-# **Internship Project: E-Commerce Website Development using MERN Stack**
+# **Internship Project: Website Development using MERN Stack**
 
 ## **Project Description**
 
-This repository contains the code and resources for an **internship project** focused on developing a **responsive e-commerce website** using the **MERN stack** (MongoDB, Express.js, React, Node.js). The primary goal of the project is to build a **full-fledged online store** that offers seamless user experiences on both **mobile and desktop devices**.
+This repository contains the code and resources for an **internship project** focused on developing a **responsive websites** using the **MERN stack** (MongoDB, Express.js, React, Node.js). The primary goal of the project is to build a **full-fledged online store** that offers seamless user experiences on both **mobile and desktop devices**.
 
 ### **Key Features**:
 
